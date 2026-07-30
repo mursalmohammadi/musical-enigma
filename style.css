@@ -1,0 +1,53 @@
+.whole{
+display: flex;
+padding-top: 40px;
+}
+.whole img{
+    width: 750px;
+}
+.content p{
+    color: hsl(0, 2%, 26%);
+}
+.content li{
+    color: hsl(0, 2%, 26%);
+}
+.whole button{
+    padding: 8px 23px;
+    border-radius: 20px;
+    border: color(#605959);
+    background-color: white;
+    
+}
+.whole a{
+    text-decoration: none;
+    color: hsl(0, 2%, 26%);
+    
+}
+
+#fits{
+    color: #694369;
+    font-style: italic;
+}
+
+.content{
+    justify-content: space-between;
+
+    padding: 30px;
+}
+#section{
+    background-color: lch(94.76% 6.27 324.62);
+    text-align: center;
+    margin: 60px;
+    padding: 180px;
+}
+#section p{
+    color: hsl(0, 2%, 26%);
+    padding: 30px;
+}
+
+
+.divas{
+    display: flex;
+    gap: 400px; 
+    border: 2px red;
+}
